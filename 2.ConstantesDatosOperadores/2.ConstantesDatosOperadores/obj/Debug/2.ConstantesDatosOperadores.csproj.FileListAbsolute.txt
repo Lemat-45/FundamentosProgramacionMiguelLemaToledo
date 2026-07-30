@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MLT\2.ConstantesDatosOperadores\2.ConstantesDatosOperadores\obj\Debug\2.ConstantesDatosOperadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MLT\2.ConstantesDatosOperadores\2.ConstantesDatosOperadores\obj\Debug\2.ConstantesDatosOperadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MLT\2.ConstantesDatosOperadores\2.ConstantesDatosOperadores\bin\Debug\2.ConstantesDatosOperadores.exe.config
+C:\Users\B09S104est\Documents\MLT\2.ConstantesDatosOperadores\2.ConstantesDatosOperadores\bin\Debug\2.ConstantesDatosOperadores.exe
+C:\Users\B09S104est\Documents\MLT\2.ConstantesDatosOperadores\2.ConstantesDatosOperadores\bin\Debug\2.ConstantesDatosOperadores.pdb
+C:\Users\B09S104est\Documents\MLT\2.ConstantesDatosOperadores\2.ConstantesDatosOperadores\obj\Debug\2.ConstantesDatosOperadores.exe
+C:\Users\B09S104est\Documents\MLT\2.ConstantesDatosOperadores\2.ConstantesDatosOperadores\obj\Debug\2.ConstantesDatosOperadores.pdb
