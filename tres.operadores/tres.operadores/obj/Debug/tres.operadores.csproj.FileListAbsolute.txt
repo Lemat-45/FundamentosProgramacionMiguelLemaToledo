@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MLT\tres.operadores\tres.operadores\bin\Debug\tres.operadores.exe.config
+C:\Users\B09S104est\Documents\MLT\tres.operadores\tres.operadores\bin\Debug\tres.operadores.exe
+C:\Users\B09S104est\Documents\MLT\tres.operadores\tres.operadores\bin\Debug\tres.operadores.pdb
+C:\Users\B09S104est\Documents\MLT\tres.operadores\tres.operadores\obj\Debug\tres.operadores.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MLT\tres.operadores\tres.operadores\obj\Debug\tres.operadores.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MLT\tres.operadores\tres.operadores\obj\Debug\tres.operadores.exe
+C:\Users\B09S104est\Documents\MLT\tres.operadores\tres.operadores\obj\Debug\tres.operadores.pdb
