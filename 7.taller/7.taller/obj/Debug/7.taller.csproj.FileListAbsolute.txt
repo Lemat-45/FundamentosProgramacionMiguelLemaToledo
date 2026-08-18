@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MLT\7.taller\7.taller\obj\Debug\7.taller.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MLT\7.taller\7.taller\obj\Debug\7.taller.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MLT\7.taller\7.taller\bin\Debug\7.taller.exe.config
+C:\Users\B09S104est\Documents\MLT\7.taller\7.taller\bin\Debug\7.taller.exe
+C:\Users\B09S104est\Documents\MLT\7.taller\7.taller\bin\Debug\7.taller.pdb
+C:\Users\B09S104est\Documents\MLT\7.taller\7.taller\obj\Debug\7.taller.exe
+C:\Users\B09S104est\Documents\MLT\7.taller\7.taller\obj\Debug\7.taller.pdb
