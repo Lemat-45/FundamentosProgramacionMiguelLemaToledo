@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MLT\7.cicloWhile\7.cicloWhile\bin\Debug\7.cicloWhile.exe.config
+C:\Users\B09S104est\Documents\MLT\7.cicloWhile\7.cicloWhile\bin\Debug\7.cicloWhile.exe
+C:\Users\B09S104est\Documents\MLT\7.cicloWhile\7.cicloWhile\bin\Debug\7.cicloWhile.pdb
+C:\Users\B09S104est\Documents\MLT\7.cicloWhile\7.cicloWhile\obj\Debug\7.cicloWhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MLT\7.cicloWhile\7.cicloWhile\obj\Debug\7.cicloWhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MLT\7.cicloWhile\7.cicloWhile\obj\Debug\7.cicloWhile.exe
+C:\Users\B09S104est\Documents\MLT\7.cicloWhile\7.cicloWhile\obj\Debug\7.cicloWhile.pdb
