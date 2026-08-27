@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\9.CiclosWilde\9.CiclosWilde\bin\Debug\9.CiclosWilde.exe.config
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\9.CiclosWilde\9.CiclosWilde\bin\Debug\9.CiclosWilde.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\9.CiclosWilde\9.CiclosWilde\bin\Debug\9.CiclosWilde.pdb
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\9.CiclosWilde\9.CiclosWilde\obj\Debug\9.CiclosWilde.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\9.CiclosWilde\9.CiclosWilde\obj\Debug\9.CiclosWilde.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\9.CiclosWilde\9.CiclosWilde\obj\Debug\9.CiclosWilde.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\9.CiclosWilde\9.CiclosWilde\obj\Debug\9.CiclosWilde.pdb
