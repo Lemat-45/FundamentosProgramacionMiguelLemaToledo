@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MLT\12.Dowhile\12.Dowhile\bin\Debug\12.Dowhile.exe.config
+C:\Users\B09S104est\Documents\MLT\12.Dowhile\12.Dowhile\bin\Debug\12.Dowhile.exe
+C:\Users\B09S104est\Documents\MLT\12.Dowhile\12.Dowhile\bin\Debug\12.Dowhile.pdb
+C:\Users\B09S104est\Documents\MLT\12.Dowhile\12.Dowhile\obj\Debug\12.Dowhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MLT\12.Dowhile\12.Dowhile\obj\Debug\12.Dowhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MLT\12.Dowhile\12.Dowhile\obj\Debug\12.Dowhile.exe
+C:\Users\B09S104est\Documents\MLT\12.Dowhile\12.Dowhile\obj\Debug\12.Dowhile.pdb

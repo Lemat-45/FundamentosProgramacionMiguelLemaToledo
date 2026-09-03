@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\MLT\11.cicloswhile\11.cicloswhile\obj\Debug\11.cicloswhile.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\MLT\11.cicloswhile\11.cicloswhile\obj\Debug\11.cicloswhile.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\MLT\11.cicloswhile\11.cicloswhile\bin\Debug\11.cicloswhile.exe.config
+C:\Users\B09S104est\Documents\MLT\11.cicloswhile\11.cicloswhile\bin\Debug\11.cicloswhile.exe
+C:\Users\B09S104est\Documents\MLT\11.cicloswhile\11.cicloswhile\bin\Debug\11.cicloswhile.pdb
+C:\Users\B09S104est\Documents\MLT\11.cicloswhile\11.cicloswhile\obj\Debug\11.cicloswhile.exe
+C:\Users\B09S104est\Documents\MLT\11.cicloswhile\11.cicloswhile\obj\Debug\11.cicloswhile.pdb
