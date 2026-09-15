@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\MLT\14.arreglosunidimensionales\bin\Debug\14.arreglosunidimensionales.exe.config
+C:\Users\B09S104est\Desktop\MLT\14.arreglosunidimensionales\bin\Debug\14.arreglosunidimensionales.exe
+C:\Users\B09S104est\Desktop\MLT\14.arreglosunidimensionales\bin\Debug\14.arreglosunidimensionales.pdb
+C:\Users\B09S104est\Desktop\MLT\14.arreglosunidimensionales\obj\Debug\14.arreglosunidimensionales.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\MLT\14.arreglosunidimensionales\obj\Debug\14.arreglosunidimensionales.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\MLT\14.arreglosunidimensionales\obj\Debug\14.arreglosunidimensionales.exe
+C:\Users\B09S104est\Desktop\MLT\14.arreglosunidimensionales\obj\Debug\14.arreglosunidimensionales.pdb
