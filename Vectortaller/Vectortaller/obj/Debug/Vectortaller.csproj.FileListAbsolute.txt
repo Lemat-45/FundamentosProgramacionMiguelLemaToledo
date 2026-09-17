@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\Vectortaller\Vectortaller\bin\Debug\Vectortaller.exe.config
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\Vectortaller\Vectortaller\bin\Debug\Vectortaller.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\Vectortaller\Vectortaller\bin\Debug\Vectortaller.pdb
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\Vectortaller\Vectortaller\obj\Debug\Vectortaller.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\Vectortaller\Vectortaller\obj\Debug\Vectortaller.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\Vectortaller\Vectortaller\obj\Debug\Vectortaller.exe
+C:\Users\B09S104est\Documents\Fundamentos de Programación SAG\FundamentosProgramacionMJ10SamuelArango\Vectortaller\Vectortaller\obj\Debug\Vectortaller.pdb
