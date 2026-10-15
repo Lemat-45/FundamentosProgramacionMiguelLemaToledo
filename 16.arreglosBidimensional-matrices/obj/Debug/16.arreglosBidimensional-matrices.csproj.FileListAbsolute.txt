@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Desktop\MLT\16.arreglosBidimensional-matrices\obj\Debug\16.arreglosBidimensional-matrices.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Desktop\MLT\16.arreglosBidimensional-matrices\obj\Debug\16.arreglosBidimensional-matrices.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Desktop\MLT\16.arreglosBidimensional-matrices\bin\Debug\16.arreglosBidimensional-matrices.exe.config
+C:\Users\B09S104est\Desktop\MLT\16.arreglosBidimensional-matrices\bin\Debug\16.arreglosBidimensional-matrices.exe
+C:\Users\B09S104est\Desktop\MLT\16.arreglosBidimensional-matrices\bin\Debug\16.arreglosBidimensional-matrices.pdb
+C:\Users\B09S104est\Desktop\MLT\16.arreglosBidimensional-matrices\obj\Debug\16.arreglosBidimensional-matrices.exe
+C:\Users\B09S104est\Desktop\MLT\16.arreglosBidimensional-matrices\obj\Debug\16.arreglosBidimensional-matrices.pdb
