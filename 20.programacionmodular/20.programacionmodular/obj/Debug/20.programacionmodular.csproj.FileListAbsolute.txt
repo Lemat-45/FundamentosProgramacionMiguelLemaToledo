@@ -1,0 +1,7 @@
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\20.programacionmodular\20.programacionmodular\obj\Debug\20.programacionmodular.csproj.AssemblyReference.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\20.programacionmodular\20.programacionmodular\obj\Debug\20.programacionmodular.csproj.CoreCompileInputs.cache
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\20.programacionmodular\20.programacionmodular\bin\Debug\20.programacionmodular.exe.config
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\20.programacionmodular\20.programacionmodular\bin\Debug\20.programacionmodular.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\20.programacionmodular\20.programacionmodular\bin\Debug\20.programacionmodular.pdb
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\20.programacionmodular\20.programacionmodular\obj\Debug\20.programacionmodular.exe
+C:\Users\B09S104est\Documents\Alan\Fundamentos-de-programaci-n-M-J-12-Alan-Garc-a-Osorio\20.programacionmodular\20.programacionmodular\obj\Debug\20.programacionmodular.pdb
